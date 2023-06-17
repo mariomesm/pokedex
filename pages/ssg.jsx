@@ -1,5 +1,4 @@
 import Pokemon from "@/components/pokemon-card.jsx";
-import { useEffect, useState } from "react";
 
 export default function home(props) {
 //   const [pokemonList, setPokemonList] = useState([]);
